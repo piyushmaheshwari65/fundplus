@@ -16,7 +16,7 @@ contract meta {
     }
 }
 
-contract FreeFund is meta {
+contract FundPlus is meta {
     
     address public creator;
     uint public start = block.timestamp;
